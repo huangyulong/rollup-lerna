@@ -1,0 +1,15 @@
+{
+  "name": "uppercase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uppercase-bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -i --config rollup.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.70.1"
+  }
+}
